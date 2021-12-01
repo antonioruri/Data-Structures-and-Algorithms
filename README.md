@@ -1,4 +1,5 @@
-#Data Structures and Algorithms 
+# Data Structures and Algorithms 
+
 Implementation of generic data structures in C++ 
 
 - Tree
